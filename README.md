@@ -1,6 +1,6 @@
-# WeatherWaveApp
+# WeatherWave
 
-WeatherWaveApp is a simple weather application built using HTML, CSS, and JavaScript. It utilizes the OpenWeather API to provide real-time weather information.
+WeatherWave is a simple weather application built using HTML, CSS, and JavaScript. It utilizes the OpenWeather API to provide real-time weather information.
 
 ## Usage
 
