@@ -11,7 +11,7 @@ WeatherWave is a simple weather application built using HTML, CSS, and JavaScrip
 
 ## Live Demo
 
-You can access the live demo of WeatherWaveApp [here](link_to_your_deployed_site).
+You can access the live demo of WeatherWaveApp [here](https://3rr0r-505.github.io/WeatherWave/).
 
 ## Credits
 
